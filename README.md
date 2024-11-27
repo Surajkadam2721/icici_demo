@@ -1,2 +1,3 @@
 # icici_demo
-icici is a online banking domain application.
+Icici is a online banking domain application.
+Author- Suraj Kadam
